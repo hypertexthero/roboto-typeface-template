@@ -12,10 +12,10 @@ body {
   color:rgb(10, 10, 10);
 } 
 
-a {outline:none !important; font-weight:bold; text-decoration:none;}
+a {outline:none !important; text-decoration:none; border-bottom:1px solid #eee; background:#f5f5f5;}
 a:link {color:#3369E8;}
 a:visited {color:#D50F25;}
-a:hover {color:#009925;}
+a:hover {color:#009925; border-color:#f5f5f5;}
 a:active {color:#EEB211; outline:none;}
 
 h1 {
