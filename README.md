@@ -6,6 +6,10 @@ Typography template optimized for reading. <a href="http://www.asimovonline.com/
 
 <http://hypertexthero.github.io/roboto-typeface-template/>
 
+## Todo
+
+* Adjust word size at narrow width. Should be between 10 and 13 words per line.
+
 ## Licence & Copyright
 
 **“The Last Question” is Copyright 1956 by Isaac Asimov**. It is available from <a href="http://www.penguinrandomhouse.com/books/5682/isaac-asimov-by-isaac-asimov/paperback">Penguin Random House in <i>Isaac Asimov: The Complete Stories Volume 1</i></a>.
