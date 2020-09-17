@@ -4,7 +4,7 @@ Typography template optimized for reading. <a href="http://www.asimovonline.com/
 
 ## Demo 
 
-<http://hypertexthero.github.io/roboto-typeface-template/>
+<https://hypertexthero.github.io/roboto-typeface-template/>
 
 ## Todo
 
